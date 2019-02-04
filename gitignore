@@ -1,0 +1,7 @@
+.idea
+.git
+target/
+*.iml
+*.ipr
+*.iws
+*.log
